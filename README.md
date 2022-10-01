@@ -1,1 +1,0 @@
-## This is the GIt tutorials by Mrityunjay 
